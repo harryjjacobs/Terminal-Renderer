@@ -18,4 +18,3 @@ below (fps). I have noticed when running with python2 the animation
 lags considerably more than when using python 3.
 
 The file can be imported as a module as well.
----
