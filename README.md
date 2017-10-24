@@ -18,7 +18,7 @@ below (fps). I have noticed when running with python2 the animation
 lags considerably more than when using python 3.
 
 Examples:
-```bash
+```shell
 $ python terminal_renderer.py
 
 $ python terminal_renderer.py apple.jpg
