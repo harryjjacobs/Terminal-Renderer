@@ -1,5 +1,8 @@
 # Uni task to make a program render an image using the console.
 
+Dependencies:
+Python Imaging Library (PIL).
+
 Note:
 This script has been tested on linux only. It will not run in the windows
 command prompt unless you are using ANSICON or another similar program or
